@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning SQL
-- 👯 I’m looking to collaborate on Deep Learning
+- 👯 I’m looking to collaborat in machine learning 
 - 💬 Ask me about Data Science, machine  Learning
 - 📫 How to reach me: sandeeprairai339@gmail.com
 - :smile: Happy Learning

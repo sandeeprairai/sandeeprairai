@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## My Github Stats
 
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeeprairai&show_icons=true&theme=tokyonight)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=sandeeprairai)
 
 

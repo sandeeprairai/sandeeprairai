@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ## My Github Stats
 
---<![Github Stats 3](https://github-readme-stats.vercel.app/api?username=sandeeprairai) -->
+
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=sandeeprairai)
 
---<![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeeprairai) -->
+
 
 
 

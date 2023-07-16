@@ -1,6 +1,6 @@
 ### Hi there 👋  I am Sandeep kumar
 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate in machine learning 
 - 💬 Ask me about Data Science, Machine  Learning
 - 📫 How to reach me: - sandeeprairai339@gmail.com

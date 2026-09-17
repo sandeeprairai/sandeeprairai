@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=F7AA94&lines=Hi+%F0%9F%91%8B+It's+Sandeep;I'm+a+Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🧑‍💻  [**Sandeep kumar**](https://www.linkedin.com/in/sandeep-kumar-935662228/)<img align="right" width=200px height=200px alt="side_sticker" src="https://media1.giphy.com/media/Y9jnMrKtoulD3ugkJs/giphy.gif?cid=ecf05e478bixwex3msowdz6dsr57n7b0w32oj2wjtxu0vw99&ep=v1_gifs_related&rid=giphy.gif&ct=s" /><br>🥇  B.E in **Computer Engineering** | Mumbai University 2020-24<br>🎯  Goal-oriented<br>🤓  Optimistic<br>🤝 
+🧑‍💻  [**Sandeep kumar**](https://www.linkedin.com/in/sandeep-kumar-935662228/)<img align="right" width=200px height=200px alt="side_sticker" src="https://media1.giphy.com/media/Y9jnMrKtoulD3ugkJs/giphy.gif?cid=ecf05e478bixwex3msowdz6dsr57n7b0w32oj2wjtxu0vw99&ep=v1_gifs_related&rid=giphy.gif&ct=s" /><br>🥇  B.E in **Computer Engineering** | Mumbai University<br>🎯  Goal-oriented<br>🤓  Optimistic<br>🤝 
  Glad to connect with any Data Enthusiasts<br>📞  + 91-8108732942 | Whatsapp | Maharashtra. India<br>📩   sandeeprairai339@gmail.com <br>🧫  **Fun Fact ->** Astutely Easygoing<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
  
  
